@@ -5,8 +5,14 @@ BugSentinel is a solar energy-harvesting system designed to offer continuous, su
 
 Key Features:
 
-Solar-Powered Operation: By harnessing solar energy, BugSentinel operates without a battery, ensuring long-term, low-maintenance functionality, ideal for remote agricultural settings.
+✅ Solar-Powered Operation: By harnessing solar energy, BugSentinel operates without a battery, ensuring long-term, low-maintenance functionality, ideal for remote agricultural settings.
 
-Deep Learning Inference on Embedded Systems: A custom deep learning model was trained using my own insect dataset to classify pest species accurately. This model was then converted into an optimized C header file, enabling it to run on the MSP430FR5994 microcontroller using the SONIC inference framework.
+✅ Deep Learning Inference on Embedded Systems: A custom deep learning model was trained using my own insect dataset to classify pest species accurately. This model was then converted into an optimized C header file, enabling it to run on the MSP430FR5994 microcontroller using the SONIC inference framework.
 
-Efficient Inference Code: Custom code was written to perform inference on the trained deep neural network (DNN) directly on the MSP430, ensuring the model operates efficiently within the hardware constraints while delivering high accuracy in pest detection.
+✅ Efficient Inference Code: Custom code was written to perform inference on the trained deep neural network (DNN) directly on the MSP430, ensuring the model operates efficiently within the hardware constraints while delivering high accuracy in pest detection.
+
+✅ Machine Learning Model Execution: The scripts folder now includes learning models built with Python, allowing SONIC to train and convert models for deployment.
+
+✅ Model Conversion for C Compatibility: The trained models are converted into a C-compatible format, enabling embedded systems to run AI models efficiently.
+
+✅ Runtime Model Execution: SONIC is designed to execute machine learning models in real-time on low-power systems, enhancing decision-making without relying on cloud processing.
