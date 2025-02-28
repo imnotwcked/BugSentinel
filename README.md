@@ -34,7 +34,7 @@ Estimated Execution Times:
   
   <img width="369" alt="intermittent operation of BugSentinal System" src="https://github.com/user-attachments/assets/853372c6-5cc1-4c18-8700-da9747e6c059" />
   
-                                                      "intermittent operation of BugSentinal System" [1]
+                  "intermittent operation of BugSentinal System" [1]
 
 - The harvesting equipment is configured with MSP430FR5994, and the solar panels used are 5.5cm in length and 2.5cm in width.
   
