@@ -6,6 +6,15 @@ BugSentinel is a solar energy-harvesting system designed to provide continuous, 
 
 ![BugSentinel MSP430FR5994](https://github.com/user-attachments/assets/8ba77053-1dd5-4786-809b-47393c657847)
 
+Challenges of Battery-Powered IoT Devices:
+IoT devices that rely on batteries face several critical challenges:
+- Temperature Sensitivity: Battery performance degrades in extreme hot or cold environments, leading to inconsistent operation.
+- Limited Lifespan: The full charge capacity of a battery decreases as charging and discharging cycles are repeated, reducing the device's long-term effectiveness.
+- Maintenance Overhead: Batteries require periodic replacement, increasing maintenance costs and limiting deployment in remote areas.
+- Environmental Impact: The disposal of depleted batteries poses ecological risks due to hazardous materials used in battery manufacturing.
+
+By eliminating the need for batteries, BugSentinel overcomes these issues, making it a robust and sustainable solution for agricultural monitoring.
+
 Experimental Results:
 Through real-world testing, we observed that the brightness of sunlight directly affects the system's performance. When sunlight is strong, the system processes data faster, while cloudy conditions slow down execution due to limited energy harvesting. The intermittent operation ensures that the system adapts to these conditions, performing tasks whenever energy is available and pausing during low-energy periods.
 
