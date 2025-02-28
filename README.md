@@ -16,3 +16,6 @@ Key Features:
 ✅ Model Conversion for C Compatibility: The trained models are converted into a C-compatible format, enabling embedded systems to run AI models efficiently.
 
 ✅ Runtime Model Execution: SONIC is designed to execute machine learning models in real-time on low-power systems, enhancing decision-making without relying on cloud processing.
+
+
+![BugSentinel MSP430FR5994](https://github.com/user-attachments/assets/6257c25d-bd5d-4021-b504-b92a1f0feead)
