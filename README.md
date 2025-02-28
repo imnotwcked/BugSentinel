@@ -5,7 +5,7 @@ BugSentinel: **A Solar-Powered, Battery-Free AI System for Agricultural Pest Mon
 BugSentinel is a **solar energy-harvesting system** designed to provide continuous, sustainable agricultural **pest monitoring**. By operating entirely on solar power, it eliminates the need for batteries, making it a self-sustaining, eco-friendly solution for precision farming.
 
 ![BugSentinel MSP430FR5994](https://github.com/user-attachments/assets/8ba77053-1dd5-4786-809b-47393c657847)
-  fig 2. BugSentinel hardware setup
+                                  fig 1. BugSentinel hardware setup
 
 Challenges of Battery-Powered IoT Devices:
 IoT devices that rely on batteries face several critical limitations:
