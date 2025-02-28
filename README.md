@@ -11,9 +11,9 @@ Through real-world testing, we observed that the brightness of sunlight directly
 
 Estimated Execution Times:
 - Bright Light (Full Illumination - Direct LED or Sunlight): System wakes up and processes inference in approximately 2-5 seconds.
-- 
+  
 - Dim Light (Phone Flashlight - Lower Power Source): System wakes up and processes inference in approximately 10-20 seconds.
-- 
+
 - No Light (Power Depleted - System Paused): System enters a waiting state until enough energy is harvested.
 
 **Key Features**:
